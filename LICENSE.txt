@@ -1,0 +1,111 @@
+LINKER.AI PROPRIETARY SOURCE LICENSE
+Project: Linker.AI / SoulLink
+Copyright (c) 2026 Syn / Synonimity / SynonTech. All rights reserved.
+
+This license applies to the Linker.AI project, also known internally as SoulLink,
+and to all source code, assets, data, documentation, designs, systems, and other
+materials contained in this repository.
+
+1. OWNERSHIP AND INTELLECTUAL PROPERTY
+
+All components and materials in this repository are the sole and exclusive
+property of Syn, operating as Synonimity / SynonTech, unless a file explicitly
+states otherwise.
+
+Protected materials include, but are not limited to:
+
+- Backend and frontend source code
+- Application logic, engines, simulations, and service architecture
+- AI personality systems, prompt logic, memory systems, and identity systems
+- Lore, characters, world data, maps, schemas, and narrative content
+- Visual assets, animations, UI/UX designs, branding, names, and marks
+- Build scripts, deployment files, tests, documentation, and configuration
+  templates
+
+All works are protected by applicable copyright, trademark, trade secret, and
+intellectual property laws.
+
+2. RESTRICTIONS ON USE
+
+Viewing or accessing this repository is permitted only for private informational
+purposes, audit, or local development by explicitly authorized contributors.
+
+Without prior written permission from Syn, no person or entity may:
+
+a) Copy, redistribute, publish, mirror, sell, sublicense, or otherwise transfer
+   any part of this repository.
+
+b) Modify, translate, adapt, or create derivative works from any part of this
+   repository.
+
+c) Decompile, reverse engineer, disassemble, or attempt to extract protected
+   source, logic, assets, prompts, schemas, or data from any component.
+
+d) Use any part of this repository for commercial purposes.
+
+e) Use any part of this repository to train, fine-tune, evaluate, augment, or
+   otherwise improve a machine learning model or artificial intelligence system.
+
+f) Integrate, embed, connect, or build upon any Linker.AI or SynonTech system in
+   a third-party product, service, application, or platform.
+
+g) Remove, obscure, or alter any copyright notice, license notice, proprietary
+   notice, attribution, watermark, branding, or project identity.
+
+3. NO GRANT OF LICENSE
+
+Access to this repository does not grant any license, ownership interest, or
+usage right. No implied, express, or statutory license is granted except where a
+separate written agreement explicitly provides otherwise.
+
+The right to view this repository does not include the right to run, copy,
+modify, distribute, deploy, host, commercialize, or build upon the software,
+except for local development and testing by explicitly authorized contributors.
+
+4. AUTHORIZED CONTRIBUTORS
+
+Individuals explicitly authorized in writing by Syn may access, run, and
+contribute to this project under separately agreed terms.
+
+Authorization is personal, revocable, project-specific, and does not extend to
+other SynonTech projects unless explicitly stated in writing.
+
+5. THIRD-PARTY COMPONENTS
+
+Third-party dependencies, frameworks, libraries, and tools remain subject to
+their own respective licenses. Those licenses apply only to the relevant
+third-party materials and do not grant rights to Linker.AI, SoulLink, SynonTech,
+or any proprietary materials in this repository.
+
+If a specific file or submodule includes its own license notice, that notice
+applies only to that file or submodule.
+
+6. CONFIDENTIALITY
+
+Non-public source code, architecture, data, prompts, assets, characters, lore,
+roadmaps, and implementation details in this repository are confidential.
+Authorized access does not permit public disclosure, screenshots, demos,
+publication, or sharing outside approved SynonTech channels.
+
+7. TERMINATION AND ENFORCEMENT
+
+Any unauthorized use, reproduction, modification, distribution, disclosure, or
+commercial exploitation of this repository or its materials will result in
+immediate termination of access and may be pursued to the maximum extent
+permitted by law.
+
+8. NO WARRANTY
+
+This repository and all associated materials are provided "as is" and "as
+available" without warranty of any kind, whether express, implied, statutory, or
+otherwise.
+
+Syn / SynonTech is not liable for any claim, damage, loss, or other liability
+arising from access to or use of this repository.
+
+9. CONTACT
+
+For licensing inquiries, collaboration proposals, commercial permissions, or
+authorized access requests, contact Syn through official SynonTech channels.
+
+Syn / SynonTech, 2026
