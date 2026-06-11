@@ -114,3 +114,10 @@ _dev/backups/
 Thumbs.db
 .AppleDouble
 .LSOverride
+
+# Media
+*.jpg
+*.jpeg
+*.png
+*.svg
+*.mp4
