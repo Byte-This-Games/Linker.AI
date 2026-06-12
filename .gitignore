@@ -116,8 +116,8 @@ Thumbs.db
 .LSOverride
 
 # Media
-*.jpg
-*.jpeg
-*.png
-*.svg
-*.mp4
+# *.jpg
+# *.jpeg
+# *.png
+# *.svg
+# *.mp4
